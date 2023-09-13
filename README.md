@@ -33,7 +33,7 @@ The objective of the project to investigate the variables influencing the custom
 - seaborn - version 0.12.2
 - sklearn - version 1.2.1
 - statsmodel - version 0.13.5
-- scipay - version 1.10.0
+- scipy - version 1.10.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
