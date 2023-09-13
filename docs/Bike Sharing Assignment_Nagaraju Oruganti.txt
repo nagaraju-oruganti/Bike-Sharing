@@ -1,0 +1,7 @@
+GitHub repo: https://github.com/nagaraju-oruganti/Bike-Sharing
+
+Subjective questions: https://github.com/nagaraju-oruganti/Bike-Sharing/blob/master/docs/subjective_questions_solution.pdf
+
+EDA: https://github.com/nagaraju-oruganti/Bike-Sharing/blob/master/notebooks/eda.ipynb
+
+Modeling: https://github.com/nagaraju-oruganti/Bike-Sharing/blob/master/notebooks/modeling.ipynb
