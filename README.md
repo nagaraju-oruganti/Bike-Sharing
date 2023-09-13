@@ -21,7 +21,6 @@ The objective of the project to investigate the variables influencing the custom
 - There is a strong seasonsality effect in the dataset. There is low customer activity in winter and spring and peaking in the fall.
 - Weather situation also played strong role in customer decision. In the light rain, the activity is very low in comparision to clear.
 - Build linear regression model and achieved R-square value of 0.872 for the validation dataset with rmse of 710 customers.
-- Conclusion 4 from the analysis
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
