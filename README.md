@@ -1,49 +1,46 @@
 # Project Name
-> Outline a brief description of your project.
 
+A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. It recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The objective of the project to investigate the variables influencing the customers using its services and model a linear regression.
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+
+- [General Info](#general-information)
+- [Technologies Used](#technologies-used)
+- [Conclusions](#conclusions)
+- [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+
+The objective of the project to investigate the variables influencing the customers using its services and model a linear regression. The variables provided in the daily dataset for 2018 and 2019 is date driven, seasaonal, weather conditions, and holidays along with the a total customer counts. Identifying the variables driving the customers opting the services helps the management to make better marketing decision and also derive products fits the specific customers.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
+
+- There is a strong seasonsality effect in the dataset. There is low customer activity in winter and spring and peaking in the fall.
+- Weather situation also played strong role in customer decision. In the light rain, the activity is very low in comparision to clear.
+- Build linear regression model and achieved R-square value of 0.872 for the validation dataset.
 - Conclusion 4 from the analysis
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+
+- numpy - version 1.23.5
+- pandas - version 1.5.3
+- matplotlib - version 3.7
+- seaborn - version 0.12.2
+- sklearn - version 1.2.1
+- statsmodel - version 0.13.5
+- scipay - version 1.10.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
-Created by [@githubusername] - feel free to contact me!
 
+Created by [@@nagaraju-oruganti] - feel free to contact me!
 
 <!-- Optional -->
 <!-- ## License -->
