@@ -1,4 +1,4 @@
-# Project Name
+# Modeling BoomBikes Demand
 
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. It recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The objective of the project to investigate the variables influencing the customers using its services and model a linear regression.
 
